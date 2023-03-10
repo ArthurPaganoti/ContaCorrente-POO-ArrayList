@@ -39,3 +39,7 @@ seguintes opções para o usuário:
    e realizar a solicitação (transferência). Se o retorno for true, exibir uma mensagem de Transferência
    efetuada com sucesso; caso contrário, uma mensagem de Transferência não efetuado; Em ambos
    os casos o sistema deve voltar a exibir as opções.
+   
+   
+![00059-49274940](https://user-images.githubusercontent.com/106690302/224194061-69106018-a3b2-44bd-a7e7-009bb9a9594e.png)
+
